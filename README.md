@@ -2,16 +2,6 @@
 
 This project focuses on analyzing the data from two taxi cab companies, Yellow Cab and Pink Cab, with the objective of making informed investment decisions. The analysis includes data exploration, visualization, and deriving meaningful insights from the data.
 
-## Project Files
-
-- **data/**: This directory contains the raw data files in CSV format.
-- **power_bi_visualization/**: This directory contains the Power BI file (`taxi_cabs_visualization.pbix`) used for visualizing and exploring the data. It provides interactive dashboards and insightful visual representations of the analysis.
-- **python_analysis/**: This directory contains the Python scripts and Jupyter Notebooks used for further analysis.
-  - `data_preprocessing.ipynb`: This Jupyter Notebook focuses on loading and preprocessing the raw data from the CSV files. It includes steps for data cleaning, transformation, and merging to create a consolidated dataset.
-  - `exploratory_analysis.ipynb`: This Jupyter Notebook conducts exploratory data analysis (EDA) using Python. It includes statistical analysis, data visualization, and identifying significant trends and patterns in the data.
-  - **plots/**: This directory contains the visualizations and plots generated during the Python analysis.
-  - `results_summary.md`: This Markdown file summarizes the key findings and observations from the analysis.
-
 ## Findings
 
 Based on the comprehensive analysis conducted on the taxi cab data, the following conclusions have been drawn:
